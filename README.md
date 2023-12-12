@@ -1,6 +1,6 @@
 ## TRADUCTOR DE IDIOMAS PROYECTO 2
 
-# ![VISTA]([Imagen1.png](Imagen1.png)
+# ![vista](Imagen1.png)
 
 ## OBJETIVO
 
