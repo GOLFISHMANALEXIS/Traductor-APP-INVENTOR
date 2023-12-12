@@ -1,6 +1,6 @@
 ## TRADUCTOR DE IDIOMAS PROYECTO 2
 
-# ![VISTA](Imagen1.png)
+# ![VISTA]([Imagen1.png](https://github.com/GOLFISHMANALEXIS/Traductor-APP-INVENTOR/blob/c6a6c08e332183f4854387ba8bbcdaca04eebbe6/Imagen1.png))
 
 ## OBJETIVO
 
