@@ -8,29 +8,30 @@ El objetivo de esta app es la comunicación con personas extranjeras para comuni
 
 ## ELEMENTOS
 
-## Lista de elementos:
+### Lista de elementos:
 
-## 1. Disposición vertical con un botón para hablar.
+1. Disposición vertical con un botón para hablar.
 
-## 2. Disposición horizontal con una etiqueta de texto reconocido.
+2. Disposición horizontal con una etiqueta de texto reconocido.
 
-## 3. Disposición horizontal con el botón para traducir al francés.
+3. Disposición horizontal con el botón para traducir al francés.
 
-## 4. Disposición con 3 botones para traducir al alemán, inglés (Reino Unido) y español.
+4. Disposición con 3 botones para traducir al alemán, inglés (Reino Unido) y español.
 
-## 5. Otra disposición horizontal con botones para traducir al ruso e italiano.
+5. Otra disposición horizontal con botones para traducir al ruso e italiano.
 
-## 6. MEDIOS
+### MEDIOS
 
-## - Disposición con texto traducido
+- Disposición con texto traducido.
 
-## - Un reconocedor de voz
+- Un reconocedor de voz.
 
-## - Un conversor de texto a voz
+- Un conversor de texto a voz.
 
-## - Un traductor
+- Un traductor.
 
-## - Un reproductor de audio
+- Un reproductor de audio.
+
 
 ## BLOQUES
 
