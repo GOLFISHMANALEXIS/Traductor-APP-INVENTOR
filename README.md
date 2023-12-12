@@ -1,4 +1,6 @@
-# ![Captura de pantalla de computadora Descripción generada automáticamente](media/499aeedce10b1852ba2ff3019c1ff3bc.png)TRADUCTOR DE IDIOMAS PROYECTO 2
+## TRADUCTOR DE IDIOMAS PROYECTO 2
+
+# ![VISTA](Imagen1.png)
 
 ## OBJETIVO
 
@@ -32,7 +34,7 @@ El objetivo de esta app es la comunicación con personas extranjeras para comuni
 
 ## BLOQUES
 
-![Interfaz de usuario gráfica Descripción generada automáticamente](media/14d0217fbcc390a40d5b9d39f3cbeeda.png)
+![BLOQUES](imagen2.png)
 
 ## FUNCIONAMIENTO DE CADA BLOQUE
 
@@ -49,3 +51,18 @@ El funcionamiento de los bloques es el siguiente: al presionar el botón 'Hablar
 5\. Italiano - Español
 
 Estas combinaciones representan los idiomas originales y sus respectivas traducciones al español, según el texto proporcionado.
+
+<center>
+
+## LINK DE GALERIA
+<a href="https://gallery.appinventor.mit.edu/?galleryid=5174778c-5e5f-4127-ad58-81c7d2791e3a" style="text-decoration: none; display: inline-block; padding: 10px 20px; border: 2px solid #555; border-radius: 5px; background-color: #007bff; color: #fff; font-size: 16px;" rel="noopener">
+  GALERÍA
+</a>
+
+## link de APK
+<a href="https://drive.google.com/file/d/1TtnuN3m8W5F2QQFM1CzTQ1_Uk1dlZcPN/view?usp=sharing" style="text-decoration: none; display: inline-block; padding: 10px 20px; border: 2px solid #555; border-radius: 5px; background-color: #007bff; color: #fff; font-size: 16px;" rel="noopener">
+  APK
+</a>
+
+</center>
+
